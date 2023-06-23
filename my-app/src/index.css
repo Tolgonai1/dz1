@@ -1,0 +1,16 @@
+.card-img{
+    width: 150px;
+}
+.card-btn{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+
+#root{
+    display: flex;
+    justify-content: space-around;
+}
+
+
